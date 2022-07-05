@@ -1,2 +1,19 @@
-# Netflix-interface-clone
-Clone da interface da Netflix (personalizado)
+# Netflix interface clone
+
+## Clone da interface da Netflix (personalizado)
+
+Projeto copm objetivo recriar a interface da netflix, porém com um toque pessoal, essa é a minha WillFlix, primeiro site totalmente responstivo que fiz.
+
+### Linguagens utilizadas
+
+* HTML5
+* CSS
+* JavaScript
+
+### Outras tecnologias utilizadas
+
+* Owl Carousel(Jquery)
+* Font Awesome
+
+
+![Netflix](https://github.com/WillSantosss/Imgs/blob/master/Netflix.JPG)
