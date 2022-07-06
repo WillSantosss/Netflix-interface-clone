@@ -6,7 +6,7 @@ Projeto copm objetivo recriar a interface da netflix, porém com um toque pessoa
 
 ### Linguagens utilizadas
 
-* HTML5
+* HTML
 * CSS
 * JavaScript
 
