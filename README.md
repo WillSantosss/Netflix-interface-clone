@@ -16,4 +16,4 @@ Projeto copm objetivo recriar a interface da netflix, porém com um toque pessoa
 * Font Awesome
 
 
-![Netflix](https://github.com/WillSantosss/Imgs/blob/master/Netflix.JPG)
+![NetflixClone](https://github.com/WillSantosss/Imgs/blob/master/Netflix.JPG)
